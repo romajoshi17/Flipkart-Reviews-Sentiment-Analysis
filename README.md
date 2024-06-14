@@ -12,6 +12,7 @@ The dataset was taken from https://drive.google.com/file/d/1pNSAgVsWkBjPFOOIYx8R
 - Using Evaluation Metrics to test the performance of the model
 
 ## Libraries Used
-- Pandas for importing dataset
+- Pandas for importing dataset.
+- NLTK (Natural Language Toolkit) for removing stopwords.
 - Scikit-learn for importing the model, accuracy module, and TfidfVectorizer.
 - Seaborn For data visualization.
